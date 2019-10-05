@@ -118,5 +118,5 @@ if __name__ == "__main__":
     # linuxForkTest()
     # mulProcessTest()
     # mulPoolTest()
-    # processCommunicateWithQueue()
-    processCommunicateWithPipe()
+    processCommunicateWithQueue()
+    # processCommunicateWithPipe()
