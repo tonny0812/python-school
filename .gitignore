@@ -58,3 +58,5 @@ fabric.properties
 /venv/
 **/Downloads/**
 **/crawlData/images/**
+/videomerge/video/**
+/videomerge/target/**
